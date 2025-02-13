@@ -1,0 +1,14 @@
+{
+    "lotSize": 10000,
+    "sqft": 3000,
+    "garage": 1,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "price": 500001,
+    "zipCode": 665566,
+    "state": "TX",
+    "city": "Kozak",
+    "address": "900 Xutor ave",
+    "description": "Lovely house UA",
+    "title": "Ukrainian API house"
+  } 
